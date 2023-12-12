@@ -1,0 +1,7 @@
+.idea
+.idea/*
+.vscode
+.vocode/*
+bin
+bin/*
+!.gitkeep
